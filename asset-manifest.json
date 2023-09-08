@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/qr-code-gen/static/js/main.e33faf07.js",
+    "index.html": "/qr-code-gen/index.html",
+    "main.e33faf07.js.map": "/qr-code-gen/static/js/main.e33faf07.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e33faf07.js"
+  ]
+}
